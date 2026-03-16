@@ -30,7 +30,7 @@ export default function Contact() {
         {[
           { label: "Email", value: "botonkpdt@gmail.com", copy: true },
           { label: "GitHub", value: "github.com/friedeee" },
-          { label: "LinkedIn", value: "linkedin.com/in/tonprofil" },
+          { label: "LinkedIn", value: "linkedin.com/in/elfriede-boton" },
           { label: "Localisation", value: "Cotonou, Bénin" },
         ].map((item) => (
           <div key={item.label} style={{
