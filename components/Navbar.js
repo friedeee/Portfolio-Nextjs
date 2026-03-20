@@ -33,7 +33,7 @@ export default function Navbar() {
         color: "var(--accent)",
         letterSpacing: "0.05em",
       }}>
-        &gt; tonnom.dev
+        &gt; friedeee.dev
       </Link>
 
       <div style={{ display: "flex", gap: "32px" }}>
